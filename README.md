@@ -2,7 +2,7 @@
 
 Pomodoro timer based on the system tray with Discord integration.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tray](https://github.com/JeronimoMendes/ImagesREADME/blob/master/107007508_760741458017189_6442724856000628116_n.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pre_win](https://github.com/JeronimoMendes/ImagesREADME/blob/master/106989511_737740770305220_8050544780783584954_n.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![discord](https://github.com/JeronimoMendes/ImagesREADME/blob/master/107126500_306505027199519_2270809929884587936_n.png)
+&nbsp;&nbsp;&nbsp;![tray](https://github.com/JeronimoMendes/ImagesREADME/blob/master/107007508_760741458017189_6442724856000628116_n.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![pre_win](https://github.com/JeronimoMendes/ImagesREADME/blob/master/106989511_737740770305220_8050544780783584954_n.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![discord](https://github.com/JeronimoMendes/ImagesREADME/blob/master/107126500_306505027199519_2270809929884587936_n.png)
 
 
 ## Requirements
